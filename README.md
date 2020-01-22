@@ -15,7 +15,7 @@
 `$ pkg install python2`
 
 # run
-`$ https://github.com/HoseinDarking/Calculator`
+`$ git clone https://github.com/HoseinDarking/Calculator`
 
 `$ cd Calculator`
 

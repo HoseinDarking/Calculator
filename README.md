@@ -1,4 +1,9 @@
+# Calculator
+
+<img src="PicsArt_01-22-01.28.11.jpg">
+
 # prerequisites
+
 `$ pkg install git`
 
 `$ pip2 install colorama`
